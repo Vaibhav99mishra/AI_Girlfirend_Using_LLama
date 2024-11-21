@@ -192,7 +192,7 @@ Once the server starts, open your browser and navigate to **`http://localhost:30
 
 Congratulations! You have successfully built an AI girlfriend using Next.js and Replicate.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/11e41682-8c71-4b31-903c-84bed0e852aa/Untitled.png)
+![Sample Image](chatbot.webp)
 
 ## **Conclusion**
 
