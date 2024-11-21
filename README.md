@@ -1,5 +1,7 @@
 # AI_Girlfirend_Using_LLama
 
+# This project is just for fun in my free time i do please don't judge me :)
+
 # **Building an AI Girlfriend using Meta's LLama Model and Next.js**
 
 Ever imagined having meaningful conversations with your AI girlfriend? Well, get ready to bring that fantasy to life! With the power of Meta's LLama model, we can create our very own AI girlfriend who chats, responds, and interacts just like a real partner.
