@@ -1,6 +1,6 @@
 # AI_Girlfirend_Using_LLama
 
-# This project is just for fun in my free time i do please don't judge me :)
+# This project is just for fun in my free time, I do please don't judge me :)
 
 # **Building an AI Girlfriend using Meta's LLama Model and Next.js**
 
